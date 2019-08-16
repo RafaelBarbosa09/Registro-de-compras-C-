@@ -1,0 +1,7 @@
+c:\users\rafael.barbosa\source\repos\Mercado\Mercado\bin\Debug\Mercado.exe.config
+c:\users\rafael.barbosa\source\repos\Mercado\Mercado\bin\Debug\Mercado.exe
+c:\users\rafael.barbosa\source\repos\Mercado\Mercado\bin\Debug\Mercado.pdb
+c:\users\rafael.barbosa\source\repos\Mercado\Mercado\obj\Debug\Mercado.csprojAssemblyReference.cache
+c:\users\rafael.barbosa\source\repos\Mercado\Mercado\obj\Debug\Mercado.csproj.CoreCompileInputs.cache
+c:\users\rafael.barbosa\source\repos\Mercado\Mercado\obj\Debug\Mercado.exe
+c:\users\rafael.barbosa\source\repos\Mercado\Mercado\obj\Debug\Mercado.pdb
